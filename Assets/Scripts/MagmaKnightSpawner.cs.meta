@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: a58f1c20b1366a140b623c5103a6b202
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - magmaKnight: {fileID: 2128100353158153856, guid: 4c21ffb7c2a7ea34c9644c620d27a6c1, type: 3}
+  - iceKnight: {fileID: 7602872832871819603, guid: 6d16540960877964db12684e67249d86, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
